@@ -1,4 +1,4 @@
-# Strognoff de Frango 
+# Strognoff de Frango :chicken:
 
 **INGREDIENTES**
 

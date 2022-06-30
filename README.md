@@ -1,8 +1,8 @@
 
-# Livro de Receitas 
+# Livro de Receitas :fire: 
 
 Olá, bem vindo ao livro de receitas! 
 
-* Strogonoff de Frango
-* 
+* Strogonoff de Frango :chicken:
+
  
